@@ -1,0 +1,7 @@
+#mode_modules
+node_modules/
+
+#機密資訊 ㄏㄏ
+auth.js
+
+
